@@ -1,0 +1,16 @@
+nav {
+  height: 70px;
+  background-color: navy;
+  display: flex;
+  align-items: center;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+  margin: 50px;
+}
+
+.active {
+  color: aqua;
+}
